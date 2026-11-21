@@ -1,0 +1,13 @@
+/* theme: paper-ink — high-contrast editorial, solid black type on warm paper */
+:root{
+  --bg:#F7F6F3;--bg-soft:#EFEDE7;--surface:#FFFFFF;--surface-2:#F1EFE9;
+  --border:#DEDAD1;--border-strong:#0A0A0A;
+  --text-1:#0A0A0A;--text-2:#4B4740;--text-3:#8B8579;
+  --accent:#E4572E;--accent-2:#0A0A0A;--accent-3:#0A0A0A;
+  --good:#1F6B45;--warn:#E4572E;--bad:#E4572E;
+  --grad:#E4572E;--grad-soft:#EFEDE7;
+  --radius:3px;--radius-sm:2px;--radius-lg:4px;
+  --shadow:none;--shadow-lg:none;
+  --font-sans:'Inter','Noto Sans SC',sans-serif;
+  --bg-texture:none;
+}
